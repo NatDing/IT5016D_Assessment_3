@@ -1,0 +1,11 @@
+This code is an elegant implementation of the Quicksort sorting algorithm. It's known for its efficiency in sorting arrays and lists.
+
+The use of a pivot element to divide the array into smaller and greater elements is a fundamental concept in Quicksort. The code effectively chooses the last element as the pivot.
+
+The partition function is crucial for rearranging elements around the pivot, ensuring that elements smaller than the pivot are on the left, and elements greater than the pivot are on the right.
+
+The recursive nature of the quickSort function is fascinating. It repeatedly divides the array into smaller subarrays until each subarray is sorted.
+
+Quicksort is a versatile sorting algorithm that is widely used in practice due to its speed and adaptability to various scenarios.
+
+This code has inspired me to explore sorting algorithms further, understand recursion in depth, and appreciate the elegance of efficient algorithms. It's a great example of a classic algorithm that every programmer should be familiar with.
